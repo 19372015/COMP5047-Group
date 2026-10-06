@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_d7h_IMGPEfGgVc6GjbLd3A" type="UseCase" name="19372015-CW-STUDENT-USECASE" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_elqhQMGPEfGgVc6GjbLd3A" type="Actor_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_elrIUMGPEfGgVc6GjbLd3A" type="Actor_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_elrIUcGPEfGgVc6GjbLd3A" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_elrIUsGPEfGgVc6GjbLd3A" type="Actor_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_elrIU8GPEfGgVc6GjbLd3A" x="20" y="100"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_elrIVMGPEfGgVc6GjbLd3A" type="Actor_QualifiedNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_elrIVcGPEfGgVc6GjbLd3A" x="20" y="80"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_elrIVsGPEfGgVc6GjbLd3A" type="Actor_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_elrIV8GPEfGgVc6GjbLd3A" y="15"/>
+    </children>
+    <element xmi:type="uml:Actor" href="19372015-CW-COMP5047.uml#_elpTIMGPEfGgVc6GjbLd3A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_elqhQcGPEfGgVc6GjbLd3A" x="280" y="180"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_d7h_IcGPEfGgVc6GjbLd3A" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_d7h_IsGPEfGgVc6GjbLd3A"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_d7h_I8GPEfGgVc6GjbLd3A" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="19372015-CW-COMP5047.uml#_V9DssMGPEfGgVc6GjbLd3A"/>
+  </styles>
+  <element xmi:type="uml:Model" href="19372015-CW-COMP5047.uml#_V9DssMGPEfGgVc6GjbLd3A"/>
+</notation:Diagram>
