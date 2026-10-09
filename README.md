@@ -1,4 +1,4 @@
-# COMP5047-Group
+# COMP5047 Group Repository - Group 12
 
 ### Meetings:
 #### [Week 1](Meetings/Week-1.md) <br>
