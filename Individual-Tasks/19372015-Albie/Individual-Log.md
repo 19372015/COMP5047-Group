@@ -1,11 +1,31 @@
-This is a log of my individual document
+This is a log of my individual document.
 
-06/10/2026
+19372015
+<br> <br>
+06/10/2026 [TASK 2]
+
 - Created individual document
 - Created contents page
 - Begun task 2
 - Decided on Functional Requirement: FR-ST-2.1
-- Decided on table format
-- Created tables and fields
-- Wrote 3 quality requirements
+- Revisit Week 2 lecture slides to familiarise myself with desired format 
+- **Wrote +3 quality requirements (Security and Privacy protection)**
+  - Student access authentication: "When a student initiates an attempt to unlock an electronic lock with their mobile app, the system should ensure that the student is authenticated as a student on the system and has the student permission level before unlocking the door. All unauthorised access attempts should fail."
+  - Secure network communication: "When the mobile application communicates with the access control service over the network, it should use industry standard encryption in its communication, such as TLS 1.3. No information should be sent in plaintext."
+  - Secure NFC/BLE communication: "When the mobile application communicates with the electronic lock (NFC/BLE), wireless communications should be encrypted using industry standard encryption such as AES-128/AES-256 to prevent interception."
+<br>
+09/10/2026 [TASK 2]
+
+- Small grammar fixes
+- **Wrote introduction for quality attribute: Security and Privacy protection** 
+  - Security and Privacy protection is very important regarding FR-ST-2.1. Unlike a traditional key and lock system, going digital and electronic solves issues, but also introduces new ones. This involves the student's sole way of accessing buildings, so it must be robust. Poor security and privacy protection may lead to unauthorised access to buildings, incepted or manipulated data, and more.
+- **Wrote +2 quality requirements (Security and Privacy protection)**
+  - Strict credential availability: "The system should identify expired, revoked or invalid digital access credentials, and reject all access attempts regarding that credential."
+  - Set lock list: "When a student initiates an attempt to unlock an electronic lock outside of their permitted doors list (students should have an assigned list of doors they are allowed to enter, not all student doors), the system should deny access."
+- **Wrote introduction for quality attribute: Performance**
+  - "Performance must be sharp and responsive. The system should quickly process and authenticate unlock attempts. Fast response times are important to ensure students can avoid delays caused by the system. As something that replaces physical locks, they are supposed to be the same level of, if not with higher, convenience. Students should not have to wait around during slow communication or system errors."
+- **Wrote +3 quality requirements (Performance):**
+  - Response time: During normal conditions, when an authenticated student initiates an attempt to unlock a valid door, the system should receive the request, check for valid credentials, and grant either access or denied access, all within five seconds.
+  - Heavy traffic performance: During heavy traffic access periods, the digital key access service should continue to function as usual (5 second or less response time) during at least fifty simultaneous requests.
+  - Mobile application performance: When a student uses the mobile application and navigates to the page where they can initiate an unlock attempt, load times should take no longer than five seconds.
 
