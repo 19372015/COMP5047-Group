@@ -28,4 +28,17 @@ This is a log of my individual document.
   - Response time: During normal conditions, when an authenticated student initiates an attempt to unlock a valid door, the system should receive the request, check for valid credentials, and grant either access or denied access, all within five seconds.
   - Heavy traffic performance: During heavy traffic access periods, the digital key access service should continue to function as usual (5 second or less response time) during at least fifty simultaneous requests.
   - Mobile application performance: When a student uses the mobile application and navigates to the page where they can initiate an unlock attempt, load times should take no longer than five seconds.
+<br>
+10/10/2026 [TASK 2]
 
+- Went through current task 2 and renamed relevant instances of "should" to "shall" because it sounds more strict
+- **Wrote introduction for quality attribute: Reliability:**
+  - "Reliability concerns the system's ability to be consistent in its operation. Inconsistencies can be dangerous, when physical buildings and places of residence are on the line.The system must successfully grant access when the request is authorised and deny access when authorisation fails"
+- **Wrote +6 quality requirements (Reliability)**
+  - General availability: The system shall achieve at least 99.9% uptime throughout the operating year, excluding any organised maintenance.
+  - Valid request reliability: During normal conditions, when a valid, authorised request is made, the electronic lock shall commence its unlock sequence 99.9% of the time.
+  - Invalid request reliability: During normal conditions, when an invalid, unauthorised request is made, the electronic lock shall deny access 100% of the time.
+  - Handling failed communication: When communication between the mobile application and the access control system is interrupted, this interruption shall be detected and display a relevant message on the mobile application.
+  - Handling duplicate requests: When the same unlock request is sent simultaneously or too swiftly due to a timeout or other error, the system shall handle the request as one, instead of attempting to process the same request multiple times in succession.
+  - Recovery time: When a failure occurs, the system shall recover and restore normal operation within twenty minutes.
+  - Overall failure rate: The system shall operate as usual with a failure rate lower than three critical failures per operating year.
