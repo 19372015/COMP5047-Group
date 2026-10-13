@@ -39,7 +39,12 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_6LZjNsbqEfGeS-SYZYUAGQ" y="15"/>
       </children>
       <element xmi:type="uml:Actor" href="19372015-CW-COMP5047.uml#_6LVRwMbqEfGeS-SYZYUAGQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6LY8IcbqEfGeS-SYZYUAGQ" x="180" y="220"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6LY8IcbqEfGeS-SYZYUAGQ" x="300" y="200"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_W6pV4MbrEfGeS-SYZYUAGQ" type="Comment_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_W6qkAMbrEfGeS-SYZYUAGQ" type="Comment_BodyLabel"/>
+      <element xmi:type="uml:Comment" href="19372015-CW-COMP5047.uml#_W6haEMbrEfGeS-SYZYUAGQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W6pV4cbrEfGeS-SYZYUAGQ" x="40" y="80"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_5Ot4gcbqEfGeS-SYZYUAGQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_5Ot4gsbqEfGeS-SYZYUAGQ"/>
