@@ -35,4 +35,17 @@
     <owner xmi:type="uml:Model" href="19372015-USECASE.uml#_udLkYMbxEfGdrOQ8TPD8yg"/>
   </styles>
   <element xmi:type="uml:Model" href="19372015-USECASE.uml#_udLkYMbxEfGdrOQ8TPD8yg"/>
+  <edges xmi:type="notation:Connector" xmi:id="_y8k18MbzEfGdrOQ8TPD8yg" type="Association_Edge" source="_C_5lEMbzEfGdrOQ8TPD8yg" target="_zUn0cMbxEfGdrOQ8TPD8yg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_y8ldAMbzEfGdrOQ8TPD8yg" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y8ldAcbzEfGdrOQ8TPD8yg" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_y8ldAsbzEfGdrOQ8TPD8yg" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y8ldA8bzEfGdrOQ8TPD8yg" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y8k18cbzEfGdrOQ8TPD8yg"/>
+    <element xmi:type="uml:Association" href="19372015-USECASE.uml#_y8A1QMbzEfGdrOQ8TPD8yg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y8k18sbzEfGdrOQ8TPD8yg" points="[260, 90, -643984, -643984]$[130, 120, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y9teYMbzEfGdrOQ8TPD8yg" id="(0.0,0.5)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y9uFcMbzEfGdrOQ8TPD8yg" id="(1.0,0.4)"/>
+  </edges>
 </notation:Diagram>

@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_udLkYMbxEfGdrOQ8TPD8yg" name="19372015-USECASE">
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_udLkYMbxEfGdrOQ8TPD8yg" name="19372015-USECASE">
   <packageImport xmi:type="uml:PackageImport" xmi:id="_ugZ3gMbxEfGdrOQ8TPD8yg">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
   <packagedElement xmi:type="uml:Actor" xmi:id="_zUkxIMbxEfGdrOQ8TPD8yg" name="Actor2"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_C_3I0MbzEfGdrOQ8TPD8yg" name="test usecase"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_y8A1QMbzEfGdrOQ8TPD8yg" name="test link" memberEnd="_y8EfoMbzEfGdrOQ8TPD8yg _y8EfocbzEfGdrOQ8TPD8yg">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_y8D4kMbzEfGdrOQ8TPD8yg" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_y8D4kcbzEfGdrOQ8TPD8yg" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_y8EfoMbzEfGdrOQ8TPD8yg" name="actor2" type="_zUkxIMbxEfGdrOQ8TPD8yg" association="_y8A1QMbzEfGdrOQ8TPD8yg"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_y8EfocbzEfGdrOQ8TPD8yg" name="test usecase" type="_C_3I0MbzEfGdrOQ8TPD8yg" association="_y8A1QMbzEfGdrOQ8TPD8yg"/>
+  </packagedElement>
 </uml:Model>
