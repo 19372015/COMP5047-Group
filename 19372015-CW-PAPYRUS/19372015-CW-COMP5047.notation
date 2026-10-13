@@ -44,7 +44,7 @@
     <children xmi:type="notation:Shape" xmi:id="_W6pV4MbrEfGeS-SYZYUAGQ" type="Comment_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_W6qkAMbrEfGeS-SYZYUAGQ" type="Comment_BodyLabel"/>
       <element xmi:type="uml:Comment" href="19372015-CW-COMP5047.uml#_W6haEMbrEfGeS-SYZYUAGQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W6pV4cbrEfGeS-SYZYUAGQ" x="40" y="80"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W6pV4cbrEfGeS-SYZYUAGQ" x="20" y="80"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_5Ot4gcbqEfGeS-SYZYUAGQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_5Ot4gsbqEfGeS-SYZYUAGQ"/>
