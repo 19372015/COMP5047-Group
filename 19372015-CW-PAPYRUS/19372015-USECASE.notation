@@ -14,7 +14,20 @@
       <layoutConstraint xmi:type="notation:Location" xmi:id="_zUpCksbxEfGdrOQ8TPD8yg" y="15"/>
     </children>
     <element xmi:type="uml:Actor" href="19372015-USECASE.uml#_zUkxIMbxEfGdrOQ8TPD8yg"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zUn0ccbxEfGdrOQ8TPD8yg" x="80" y="80"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zUn0ccbxEfGdrOQ8TPD8yg" x="100" y="100"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_C_5lEMbzEfGdrOQ8TPD8yg" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_C_6MIMbzEfGdrOQ8TPD8yg" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_C_6MIcbzEfGdrOQ8TPD8yg" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_C_6MIsbzEfGdrOQ8TPD8yg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_C_9PcMbzEfGdrOQ8TPD8yg" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_C_9PccbzEfGdrOQ8TPD8yg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_C_9PcsbzEfGdrOQ8TPD8yg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C_9Pc8bzEfGdrOQ8TPD8yg"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="19372015-USECASE.uml#_C_3I0MbzEfGdrOQ8TPD8yg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C_5lEcbzEfGdrOQ8TPD8yg" x="260" y="60"/>
   </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_xBAzEcbxEfGdrOQ8TPD8yg" name="diagram_compatibility_version" stringValue="1.4.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_xBAzEsbxEfGdrOQ8TPD8yg"/>
