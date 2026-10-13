@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_xBAzEMbxEfGdrOQ8TPD8yg" type="UseCase" name="19372015-USECASE" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_zUn0cMbxEfGdrOQ8TPD8yg" type="Actor_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_zUobgMbxEfGdrOQ8TPD8yg" type="Actor_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zUobgcbxEfGdrOQ8TPD8yg" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_zUobgsbxEfGdrOQ8TPD8yg" type="Actor_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zUobg8bxEfGdrOQ8TPD8yg" x="20" y="100"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_zUobhMbxEfGdrOQ8TPD8yg" type="Actor_QualifiedNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zUpCkMbxEfGdrOQ8TPD8yg" x="20" y="80"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_zUpCkcbxEfGdrOQ8TPD8yg" type="Actor_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zUpCksbxEfGdrOQ8TPD8yg" y="15"/>
+    </children>
+    <element xmi:type="uml:Actor" href="19372015-USECASE.uml#_zUkxIMbxEfGdrOQ8TPD8yg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zUn0ccbxEfGdrOQ8TPD8yg" x="80" y="80"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_xBAzEcbxEfGdrOQ8TPD8yg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_xBAzEsbxEfGdrOQ8TPD8yg"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_xBAzE8bxEfGdrOQ8TPD8yg" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="19372015-USECASE.uml#_udLkYMbxEfGdrOQ8TPD8yg"/>
+  </styles>
+  <element xmi:type="uml:Model" href="19372015-USECASE.uml#_udLkYMbxEfGdrOQ8TPD8yg"/>
+</notation:Diagram>
